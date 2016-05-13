@@ -1,0 +1,1 @@
+<?if (!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED!==true)die();?><?if ($arResult["VALID_COUPON"]):?><?foreach ($arResult["ITEMS"]["AnDelCanBuy"] as $ctc => $arCart):?><?$arPrice[$ctc]["PRICE"] = $arCart["PRICE"];$arPrice[$ctc]["DISCOUNT_PRICE"] = $arCart["DISCOUNT_PRICE"];?><?endforeach;?><?echo json_encode($arPrice);?><?endif;?>

@@ -1,0 +1,41 @@
+.error-area div
+{
+    color:red;
+    margin-top: 5px;
+}
+.good-area
+{
+    color:green;
+    margin-top: 5px
+}
+.pop-content .hints 
+{
+    position: absolute;
+    white-space: nowrap;
+    display: none;
+    font-size: 11px;
+    line-height: 14px;
+    padding: 7px 19px 10px;
+    color: #FFF;
+    text-align: center;
+    left: 50%;
+    margin-left: 78px;
+    background: rgba(0,0,0,0.7);
+    margin-top: -26px;
+}
+.pop-content .hints-left 
+{
+    right: auto;
+    left: 0;
+    width: 168px;
+}
+.pop-content .hints-arrow 
+{
+    position: absolute;
+    width: 16px;
+    height: 7px;
+    bottom: -7px;
+    margin-left: -8px;
+    left: 50%;
+    background: url(images/hints-arrow.png) 0 0 no-repeat;
+}

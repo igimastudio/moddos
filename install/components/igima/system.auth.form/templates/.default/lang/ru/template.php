@@ -1,0 +1,34 @@
+<?
+$MESS["IGIMA_MODDOS_AUTH_LOGIN_BUTTON"] = "Войти в личный кабинет";
+$MESS["IGIMA_MODDOS_AUTH_LOGIN"] = "Логин";
+$MESS["IGIMA_MODDOS_AUTH_PASSWORD"] = "Пароль";
+$MESS["IGIMA_MODDOS_AUTH_REMEMBER_ME"] = "Запомнить меня на этом компьютере";
+$MESS["IGIMA_MODDOS_AUTH_FORGOT_PASSWORD"] = "напоминание пароля";
+$MESS["IGIMA_MODDOS_AUTH_FORGOT_PASS"] = "Напомнить пароль";
+$MESS["IGIMA_MODDOS_AUTH_FORGOT_MESS"] = "Введите e-mail, который Вы указывали при регистрации. На него мы отправим Ваш новый пароль.";
+$MESS["IGIMA_MODDOS_AUTH_REGISTER"] = "Регистрация";
+$MESS["IGIMA_MODDOS_AUTH_LOGOUT_BUTTON"] = "Выйти";
+$MESS["IGIMA_MODDOS_AUTH_PROFILE"] = "Мой профиль";
+$MESS["IGIMA_MODDOS_AUTH_A_INTERNAL"] = "Встроенная авторизация";
+$MESS["IGIMA_MODDOS_AUTH_A_OPENID"] = "OpenID";
+$MESS["IGIMA_MODDOS_AUTH_OPENID"] = "OpenID";
+$MESS["IGIMA_MODDOS_AUTH_A_LIVEID"] = "LiveID";
+$MESS["IGIMA_MODDOS_AUTH_LIVEID_LOGIN"] = "Log In";
+$MESS["IGIMA_MODDOS_AUTH_CAPTCHA_PROMT"] = "Введите слово на картинке";
+$MESS["IGIMA_MODDOS_AUTH_REMEMBER_SHORT"] = "Запомнить меня";
+$MESS["IGIMA_MODDOS_socserv_as_user_form"] = "Войти как пользователь:";
+$MESS["IGIMA_MODDOS_AUTH_SECURE_NOTE"]="Перед отправкой формы авторизации пароль будет зашифрован в браузере. Это позволит избежать передачи пароля в открытом виде.";
+$MESS["IGIMA_MODDOS_AUTH_NONSECURE_NOTE"]="Пароль будет отправлен в открытом виде. Включите JavaScript в браузере, чтобы зашифровать пароль перед отправкой.";
+$MESS["IGIMA_MODDOS_AUTH_ENTER_PROFILE"] = "вход в личный кабинет";
+$MESS["IGIMA_MODDOS_QUICK_REGISTER"] = "быстрая регистрация";
+$MESS["IGIMA_MODDOS_AUTH_ERROR_LOGIN"] = "Неверно заполненное поле. Проверьте, пожалуйста, свои данные.";
+$MESS["IGIMA_MODDOS_NEW_PASS_ERROR"] = "Неверно заполненное поле. Проверьте, пожалуйста, свои данные.";
+$MESS["IGIMA_MODDOS_AUTH_ERROR_PASW"] = "Пароль введен не верно или пользователя не существует!";
+$MESS["IGIMA_MODDOS_ENTER_YOUR_EMAIL"] = "введите ваш e-mail";
+$MESS["IGIMA_MODDOS_SEND_PASS_TO_EMAIL"] = "отправить новый пароль на e-mail";
+$MESS["IGIMA_MODDOS_GET_BACK"] = "Вернуться назад";
+$MESS["IGIMA_MODDOS_OR"] = "или";
+$MESS["IGIMA_MODDOS_AUTH_VKontakte"] = "Войти через Вконтакте";
+$MESS["IGIMA_MODDOS_AUTH_Facebook"] = "Войти через facebook";
+$MESS["IGIMA_MODDOS_AUTH_Twitter"] = "Войти через twitter";
+?>

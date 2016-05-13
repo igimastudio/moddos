@@ -1,0 +1,9 @@
+<?
+$MESS ['IGIMA_MODDOS_CATALOG_SORT_SHOWS'] = "Популярности";
+$MESS ['IGIMA_MODDOS_CATALOG_SORT_PRICE_ASC'] = "Цена по возрастанию";
+$MESS ['IGIMA_MODDOS_CATALOG_SORT_PRICE_DESC'] = "Цена по убыванию";
+$MESS ['IGIMA_MODDOS_CATALOG_SORT_NOVELTY'] = "Новинкам";
+$MESS ['IGIMA_MODDOS_CATALOG_SORT_DISCOUNT'] = "Скидкам";
+$MESS ['IGIMA_MODDOS_CATALOG_SORT_BY'] = "Сортировать по:";
+$MESS ['IGIMA_MODDOS_CATALOG_SORT_CHOOSE'] = "Выбрать параметр";
+?>

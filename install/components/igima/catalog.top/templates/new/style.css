@@ -1,0 +1,26 @@
+.catalog-rotator .available, .catalog-rotator .waiting
+{
+    display: none;
+}
+.disbl
+{
+    display: block !important;
+}
+.disin
+{
+    display: inline !important;
+}
+.viem-next-load
+{
+    width: 113px;
+    display: block;
+    position: relative;
+    top:3px;
+}
+.viem-prev-load
+{
+    width: 120px;
+    display: block;
+    position: relative;
+    top:3px;
+}

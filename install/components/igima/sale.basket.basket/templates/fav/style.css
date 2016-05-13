@@ -1,0 +1,9 @@
+body .popup-product .discount-coupon-wrap .used-coupon > span
+{
+    display: none;
+}
+.send-to-cart span
+{
+    position: relative;
+    top:3px;
+}

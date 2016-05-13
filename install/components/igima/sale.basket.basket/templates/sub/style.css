@@ -1,0 +1,4 @@
+body .popup-product .discount-coupon-wrap .used-coupon > span
+{
+    display: none;
+}

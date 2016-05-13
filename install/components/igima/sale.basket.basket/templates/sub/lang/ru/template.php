@@ -1,0 +1,62 @@
+<?
+$MESS["IGIMA_MODDOS_SALE_ORDER"] = "Оформить заказ";
+$MESS["IGIMA_MODDOS_SALE_OR"] = "или";
+$MESS["IGIMA_MODDOS_SALE_NAME"] = "НАИМЕНОВАНИЕ";
+$MESS["IGIMA_MODDOS_SALE_PROPS"] = "Свойства";
+$MESS["IGIMA_MODDOS_SALE_PRICE"] = "Цена";
+$MESS["IGIMA_MODDOS_SALE_STATUS"] = "статус";
+$MESS["IGIMA_MODDOS_SALE_TYPE"] = "Тип цены";
+$MESS["IGIMA_MODDOS_SALE_QUANTITY"] = "КОЛИЧЕСТВО";
+$MESS["IGIMA_MODDOS_SALE_SUM"] = "Сумма";
+$MESS["IGIMA_MODDOS_SALE_DELETE"] = "Удалить";
+$MESS["IGIMA_MODDOS_SALE_DELAY"] = "Отложить";
+$MESS["IGIMA_MODDOS_SALE_ADD_TO_BASKET"] = "Добавить к заказу";
+$MESS["IGIMA_MODDOS_SALE_WEIGHT"] = "Вес";
+$MESS["IGIMA_MODDOS_SALE_TOTAL_WEIGHT"] = "Общий вес:";
+$MESS["IGIMA_MODDOS_SALE_WEIGHT_G"] = "г";
+$MESS["IGIMA_MODDOS_SALE_DELAYED_TITLE"] = "Отложено";
+$MESS["IGIMA_MODDOS_SALE_UNAVAIL_TITLE"] = "Отсутствуют в продаже";
+$MESS["IGIMA_MODDOS_STB_ORDER_PROMT"] = "Для того чтобы начать оформление заказа, нажмите кнопку \"Оформить заказ\".";
+$MESS["IGIMA_MODDOS_STB_COUPON_PROMT"] = "Введите код купона для скидки:";
+
+$MESS["IGIMA_MODDOS_SALE_VAT"] = "НДС:";
+$MESS["IGIMA_MODDOS_SALE_VAT_EXCLUDED"] = "Товаров на:";
+$MESS["IGIMA_MODDOS_SALE_VAT_INCLUDED"] = "В том числе НДС:";
+$MESS["IGIMA_MODDOS_SALE_AMOUNT"] = "сумма:";
+$MESS["IGIMA_MODDOS_SALE_TOTAL"] = "Итого:";
+$MESS["IGIMA_MODDOS_SALE_CONTENT_DISCOUNT"] = "Скидка";
+$MESS["IGIMA_MODDOS_SALE_DISCOUNT"] = "Скидка";
+$MESS["IGIMA_MODDOS_SALE_NOTIFY_TITLE"] = "Ожидаемые товары";
+$MESS["IGIMA_MODDOS_SALE_REFRESH_NOTIFY_DESCR"] = "Нажмите эту кнопку, чтобы удалить товары.";
+
+$MESS["IGIMA_MODDOS_SALE_ITEMS"] = "Товары в корзине:";
+$MESS["IGIMA_MODDOS_SALE_BASKET_ITEMS"] = "Готовые к заказу";
+$MESS["IGIMA_MODDOS_SALE_BASKET_ITEMS_DELAYED"] = "Отложенные";
+$MESS["IGIMA_MODDOS_SALE_BASKET_ITEMS_SUBSCRIBED"] = "Ожидаемые";
+$MESS["IGIMA_MODDOS_SALE_BASKET_ITEMS_NOT_AVAILABLE"] = "Отсутствуют";
+
+$MESS["IGIMA_MODDOS_SALE_NO_ITEMS"] = "В вашей корзине ещё нет товаров.";
+$MESS["IGIMA_MODDOS_GO_TO_ORDER"] = "ПЕРЕЙТИ К ОФОРМЛЕНИЮ ЗАКАЗА";
+$MESS["IGIMA_MODDOS_GO_TO_CAT"] = "Продолжить покупки";
+$MESS["IGIMA_MODDOS_GO_TO_CATALOG"] = "Перейдите в каталог:";
+$MESS["IGIMA_MODDOS_EMPTY_CART"] = "В вашей корзине еще нет товаров..";
+$MESS["IGIMA_MODDOS_SALE_REFRESH"] = "Пересчитать";
+$MESS["IGIMA_MODDOS_CART"] = "корзина";
+$MESS["IGIMA_MODDOS_FAVORITE"] = "Избранные";
+$MESS["IGIMA_MODDOS_WAITING"] = "ожидают поступления";
+$MESS["IGIMA_MODDOS_NOVEL"] = "новинка";
+$MESS["IGIMA_MODDOS_BRAND"] = "Бренд";
+$MESS["IGIMA_MODDOS_COLOR"] = "Цвет";
+$MESS["IGIMA_MODDOS_SIZE"] = "Размер";
+$MESS["IGIMA_MODDOS_TO_FAVORITE"] = "В избранные";
+$MESS["IGIMA_MODDOS_DELETE"] = "Удалить";
+$MESS["IGIMA_MODDOS_COUPON_TEXT"] = "введите код купона для скидки";
+$MESS["IGIMA_MODDOS_COUPON_ENTER"] = "Применить";
+$MESS["IGIMA_MODDOS_COUPON_USED"] = "Использованные";
+$MESS["IGIMA_MODDOS_SEND_TO_CART"] = "переложить в корзину";
+$MESS["IGIMA_MODDOS_NO_FAVORITE"] = "У Вас еще нет избранных товаров.";
+$MESS["IGIMA_MODDOS_PROD_AVAIL"] = "Товар доступен для покупки";
+$MESS["IGIMA_MODDOS_PROD_NOT_AVAIL"] = "Мы сообщим Вам, когда этот товар будет доступен для покупки";
+$MESS["IGIMA_MODDOS_NO_SUB"] = "Товаров, ожидающих поступления - нет!.";
+$MESS["IGIMA_MODDOS_WRONG_COUPON"] = "(неправильный)";
+?>

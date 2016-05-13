@@ -1,0 +1,33 @@
+<?
+$MESS["IGIMA_MODDOS_NOVELTY_THIS_WEEK"] = "новинки этой недели";
+$MESS["IGIMA_MODDOS_ALL_NOVELTY"] = "все новинки";
+$MESS["IGIMA_MODDOS_NOVELTY"] = "новинка";
+$MESS["IGIMA_MODDOS_QUICK_VIEW"] = "быстрый просмотр";
+$MESS["IGIMA_MODDOS_PREVIEW_MODEL"] = "предыдущая модель";
+$MESS["IGIMA_MODDOS_NEXT_MODEL"] = "следующая модель";
+$MESS["IGIMA_MODDOS_DETAIL_TEXT"] = "Подробное описание...";
+$MESS["IGIMA_MODDOS_HOW_TO_SIZE"] = "Как выбрать размер";
+$MESS["IGIMA_MODDOS_AVAIL"] = "В наличии";
+$MESS["IGIMA_MODDOS_WAITING"] = "Ожидает поступления";
+$MESS["IGIMA_MODDOS_CHOOSE_SIZE"] = "Выберите размер и мы <br />сообщим о его поступлении";
+$MESS["IGIMA_MODDOS_CHOOSE_COLOR"] = "Выберите цвет и мы <br />сообщим о его поступлении";
+$MESS["IGIMA_MODDOS_ADD_TO_FAV"] = "ДОБАВИТЬ В ИЗБРАННЫЕ";
+$MESS["IGIMA_MODDOS_ADD_TO_CART"] = "ДОБАВИТЬ В КОРЗИНУ";
+$MESS["IGIMA_MODDOS_REP_TO_COL"] = "СООБЩИТЬ О ПОСТУПЛЕНИИ";
+$MESS["IGIMA_MODDOS_SIZE"] = "Размер:";
+$MESS["IGIMA_MODDOS_NO_SIZE"] = "Пожалуйста, выберите размер";
+$MESS["IGIMA_MODDOS_NO_FAV"] = "Пожалуйста, выберите товар который есть в наличии";
+$MESS["IGIMA_MODDOS_COLOR"] = "Цвет:";
+$MESS["IGIMA_MODDOS_ABOUT_BRAND_TAB"] = "о бренде";
+$MESS["IGIMA_MODDOS_DELIVERY_TAB"] = "доставка и оплата";
+$MESS["IGIMA_MODDOS_RETURN_TAB"] = "возврат и обмен";
+$MESS["IGIMA_MODDOS_NO_BRAND_DESC"] = "В настоящий момент мы готовим описание для этого бренда";
+$MESS["IGIMA_MODDOS_BRAND_SHOW_ALL"] = "посмотреть все товары этого бренда";
+$MESS["IGIMA_MODDOS_QUICK_LIKE"] = "Понравилось? Расскажи";
+$MESS["IGIMA_MODDOS_KUPITQ"] = "Купить";
+$MESS["IGIMA_MODDOS_V_KORZINU"] = "В корзину";
+$MESS["IGIMA_MODDOS_PODPISATQSA"] = "Подписаться";
+$MESS["IGIMA_MODDOS_SRAVNENIE"] = "Сравнение";
+$MESS["IGIMA_MODDOS_NET_V_NALICII"] = "Нет в наличии";
+$MESS["IGIMA_MODDOS_PODROBNEE"] = "Подробнее";
+?>

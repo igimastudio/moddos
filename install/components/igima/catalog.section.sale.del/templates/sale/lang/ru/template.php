@@ -1,0 +1,31 @@
+<?
+$MESS["CATALOG_ADD"] = "В корзину";
+$MESS["CATALOG_COMPARE"] = "Сравнить";
+$MESS["CT_BCS_TPL_ELEMENT_DELETE_CONFIRM"] = "Будет удалена вся информация, связанная с этой записью. Продолжить?";
+$MESS["CT_BCS_TPL_MESS_BTN_BUY"] = "Купить";
+$MESS["CT_BCS_TPL_MESS_PRODUCT_NOT_AVAILABLE"] = "Нет в наличии";
+$MESS["CT_BCS_TPL_MESS_BTN_DETAIL"] = "Подробнее";
+$MESS["CT_BCS_TPL_MESS_BTN_SUBSCRIBE"] = "Подписаться";
+$MESS["CT_BCS_TPL_MESS_PRICE_FROM"] = "от";
+$MESS["CATALOG_SET_BUTTON_BUY"] = "Перейти в корзину";
+$MESS["ADD_TO_BASKET_OK"] = "Товар добавлен в корзину";
+$MESS["NOVELTY_THIS_WEEK"] = "новинки этой недели";
+$MESS["ALL_NOVELTY"] = "все новинки";
+$MESS["DISCOUNT_THIS_WEEK"] = "скидки этой недели";
+$MESS["ALL_DISCOUNT"] = "все скидки";
+$MESS["NOVELTY"] = "новинка";
+$MESS["QUICK_VIEW"] = "быстрый просмотр";
+$MESS["PREVIEW_MODEL"] = "предыдущая модель";
+$MESS["NEXT_MODEL"] = "следующая модель";
+$MESS["DETAIL_TEXT"] = "Подробное описание...";
+$MESS["HOW_TO_SIZE"] = "Как выбрать размер";
+$MESS["AVAIL"] = "В наличии";
+$MESS["WAITING"] = "Ожидает поступления";
+$MESS["CHOOSE_SIZE"] = "Выберите размер и мы <br />сообщим о его поступлении";
+$MESS["ADD_TO_FAV"] = "ДОБАВИТЬ В ИЗБРАННЫЕ";
+$MESS["ADD_TO_CART"] = "ДОБАВИТЬ В КОРЗИНУ";
+$MESS["REP_TO_COL"] = "СООБЩИТЬ О ПОСТУПЛЕНИИ";
+$MESS["SIZE"] = "Размер:";
+$MESS["COLOR"] = "Цвет:";
+$MESS["IGIMA_MODDOS_PONRAVILOSQ_RASSKAJ"] = "Понравилось? Расскажи:";
+?>

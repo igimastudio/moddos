@@ -1,0 +1,26 @@
+body .popup-product .discount-coupon-wrap .used-coupon > span
+{
+    display: none;
+}
+.nodisp
+{
+    display: none;
+}
+.disbl
+{
+    display: block !important;
+}
+.popup-product .discount-coupon .apply-btn
+{
+    min-height: 27px;
+}
+.popup-product .discount-coupon .apply-btn .continue-brd span
+{
+    position: relative;
+    top:3px;
+}
+.send-to-cart span
+{
+    position: relative;
+    top:3px;
+}

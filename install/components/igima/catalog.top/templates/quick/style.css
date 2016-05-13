@@ -1,0 +1,4 @@
+.catalog-rotator .available, .catalog-rotator .waiting
+{
+    display: none;
+}

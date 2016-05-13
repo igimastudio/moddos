@@ -1,0 +1,3 @@
+<?
+$MESS["IGIMA_MODDOS_NEIG_FROM"] = "из";
+?>
